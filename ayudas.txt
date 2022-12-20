@@ -1,0 +1,2 @@
+(env) C:\Users\PC\Desktop\sqlalchemy>pip install SQLAlchemy  
+(env) C:\Users\PC\Desktop\sqlalchemy>pip install mysqlclient
